@@ -1,9 +1,8 @@
 # Static-Resource-Libs
-The index of static resources
+索引静态资源文件
 
-Edit libs.js and add your project infomations to it.
-You can search the project you submit in here.
+编辑库文件，添加你的项目信息到libs.js。
+审核后，你可以在http://card.qdsay.com 搜索到您的项目。
 
-http://card.qdsay.com
-
-It can recognize the The project file which web page refer it.
+在这里，你可以查看网站页面引用了哪些开源库文件。
+当你看到炫酷的前端效果时，你可以查看引用了哪些开源库。
